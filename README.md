@@ -1,5 +1,5 @@
 # 🩺 ImageBasedAnatomy_Tasks
-Faculty of Engineering, Cairo University
+Faculty of Engineering @ Cairo University
 Department of Systems and Biomedical Engineering
 
 This repository contains a collection of tasks completed as part of the course "Introduction to Imaging and Image-Based Anatomy". Each task explores a unique aspect of imaging systems and medical image analysis, demonstrating both foundational understanding and innovative applications.
@@ -24,7 +24,7 @@ This repository contains five project tasks that explore concepts related to ima
   - Generated movement heatmaps for individual players.
     
 3. ### **Task 3: 3D Anatomy Organs Puzzle Game**  
-   **Objective**: Create an interactive puzzle game using unity engine for assembling 3D anatomical organ models.  
+   **Objective**: Create an interactive puzzle game using Unity Engine for assembling 3D anatomical organ models.  
 - **Features**:  
   - Engaging and educational tool for learning anatomy.  
   - Real-time feedback on correct placements. 
@@ -48,7 +48,7 @@ This repository contains five project tasks that explore concepts related to ima
   - User-friendly interface inspired by professional tools like RadiAnt and MicroDicom.
     
 6. ### **Task 6: Image Viewer**  
-   **Objective**:Create a professional-grade tool for viewing and manipulating medical images.   
+   **Objective**: Create a professional-grade tool for viewing and manipulating medical images.   
 - **Features**:  
   - Zooming and panning capabilities.  
  - **Contrast Enhancement**:  
