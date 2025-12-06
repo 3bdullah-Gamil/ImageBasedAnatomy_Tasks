@@ -1,4 +1,4 @@
-# 🩺 ImageBasedAnatomy_Tasks
+# 🩺 Image and Imaging-Based Anatomy Tasks
 Faculty of Engineering @ Cairo University
 Department of Systems and Biomedical Engineering
 
