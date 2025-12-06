@@ -38,11 +38,11 @@ This repository contains five project tasks that explore concepts related to ima
     - Application of technologies such as entangled photons, multiphoton microscopy, and gradient-index (GRIN) lenses.  
     - Proposed transformative applications in mental health diagnostics, memory recovery, and dream visualization.  
   - Deliverables included:  
-    - A **one-page professional proposal**.  
+    - A **one-page professional and scientific proposal**.  
     - A **2-minute demonstration video**.
      
 5. ### **Task 5: DICOM Viewer**  
-   **Objective**: Develop a professional-grade viewer for DICOM files.  
+   **Objective**: Develop a professional-grade DICOM viewer.  
 - **Features**:  
   - Supports 2D, M2D, and 3D image visualization.  
   - User-friendly interface inspired by professional tools like RadiAnt and MicroDicom.
@@ -76,7 +76,7 @@ This repository contains five project tasks that explore concepts related to ima
   Pydicom, Numpy, TensorFlow, PyTorch, OpenCV, ITK/VTK...etc
 
 - **Tools:**  
-  YOLO, DICOM libraries, 3D visualization tools...etc
+  YOLO, DICOM libraries, 3D visualization tools...etc.
 
 ---
 
@@ -93,10 +93,10 @@ This course introduces key concepts in imaging and its application to anatomical
 
 ## 👥 Team Members
 
-- **Abdullah Gamil**  
+- **Abdullah Gamil**
+- **Yomna Sabry**
 - **Mohamed Badawy**  
 - **Rowaida Mohamed**  
-- **Yomna Sabry**
 
   ---
 
